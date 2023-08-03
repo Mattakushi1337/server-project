@@ -29,7 +29,8 @@
     "jgrowl": "^1.4.7",
     "jquery": "^3.6.3",
     "moment": "^2.29.4",
-    "mongoose": "^6.8.3",
+    "mongodb": "^5.7.0",
+    "mongoose": "^6.11.5",
     "pug": "^3.0.2",
     "serve-favicon": "^2.5.0"
   },
